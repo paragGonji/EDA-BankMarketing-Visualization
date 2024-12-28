@@ -23,17 +23,6 @@ The growth of supermarkets in highly populated cities is increasing, and market 
 - **Gross Margin Percentage**: Gross margin percentage.  
 - **Rating**: Customer rating of their overall shopping experience (on a scale of 1 to 10).  
 
----
-
-## Steps  
-
-1. **Import Libraries**  
-2. **Know Your Dataset**  
-3. **Data Cleaning**  
-4. **Data Visualization**  
-5. **Conclusion**  
-
----
 
 ## Importing Libraries  
 
