@@ -42,5 +42,23 @@ Here are the basic libraries:
 
 ### Install the dependencies:  
 Install required libraries by running:  
- ```bash
+ ```
 pip install -r requirements.txt
+```
+
+
+Usage
+Run the Application:
+Ensure the bank.csv file is in the same directory as the notebook.
+Start the Jupyter Notebook server:
+bash
+Copy code
+jupyter notebook BankMarketing-Data-Visualization.ipynb
+Open the BankMarketing-Data-Visualization.ipynb file in your browser.
+Steps:
+Load and clean the dataset.
+Perform exploratory data visualization.
+Analyze customer behavior and sales patterns.
+Derive meaningful insights and conclusions.
+Dataset File
+The dataset file, bank.csv, contains the sales data needed for the analysis. Ensure this file is in the same directory as the notebook to avoid errors.
