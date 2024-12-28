@@ -59,10 +59,10 @@ jupyter notebook BankMarketing-Data-Visualization.ipynb
    
 Steps:
 
-- **Load and clean the dataset.
-- **Perform exploratory data visualization.
-- **Analyze customer behavior and sales patterns.
-- **Derive meaningful insights and conclusions.
+- Load and clean the dataset.
+- Perform exploratory data visualization.
+- Analyze customer behavior and sales patterns.
+- Derive meaningful insights and conclusions.
 
 
 ### Dataset File:
