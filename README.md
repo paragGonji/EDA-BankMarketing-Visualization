@@ -25,7 +25,7 @@ The growth of supermarkets in highly populated cities is increasing, and market 
 
  
 ## Importing Libraries  
---- 
+ 
 This is an interesting topic because you may not remember all the libraries you need right at the beginning. Don't worry! Errors will guide you to import them as you progress.  
 
 Here are the basic libraries:  
@@ -36,3 +36,12 @@ Here are the basic libraries:
 
 ---  
  
+## Installation
+
+### Prerequisites  
+- Python 3.x must be installed on your system.
+
+### Install the dependencies:  
+Install required libraries by running:  
+```bash
+pip install -r requirements.txt
