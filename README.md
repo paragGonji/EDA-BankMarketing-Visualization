@@ -34,7 +34,6 @@ Here are the basic libraries:
 - `matplotlib.pyplot`  
 - And others as required  
 
----  
  
 ## Installation
 
@@ -43,5 +42,5 @@ Here are the basic libraries:
 
 ### Install the dependencies:  
 Install required libraries by running:  
-```bash
+ ```bash
 pip install -r requirements.txt
