@@ -47,15 +47,16 @@ pip install -r requirements.txt
 ```
 
 
-###Run the Application:
+### Run the Application:
 
-1. Ensure the bank.csv file is in the same directory as the notebook.
+1. Ensure the `bank.csv` file is in the same directory as the notebook.
 2. Start the Jupyter Notebook server:
+
 ```
 jupyter notebook BankMarketing-Data-Visualization.ipynb
 ```
-3. Open the BankMarketing-Data-Visualization.ipynb file in your browser.
-
+3. Open the `BankMarketing-Data-Visualization.ipynb` file in your browser.
+   
 Steps:
 
 - **Load and clean the dataset.
@@ -63,5 +64,7 @@ Steps:
 - **Analyze customer behavior and sales patterns.
 - **Derive meaningful insights and conclusions.
 
-###Dataset File
-The dataset file, bank.csv, contains the sales data needed for the analysis. Ensure this file is in the same directory as the notebook to avoid errors.
+
+### Dataset File:
+The dataset file, `bank.csv`, contains the sales data needed for the analysis. Ensure this file is in the same directory as the notebook to avoid errors.
+
